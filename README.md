@@ -1,4 +1,4 @@
-# AI Knowledge Copilot
+# AI Knowledge Copilot API
 
 A **Retrieval-Augmented Generation (RAG) AI assistant** that answers questions using your own documents.
 
