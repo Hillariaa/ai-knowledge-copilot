@@ -295,3 +295,8 @@ It demonstrates:
 
 MIT License
 
+---
+
+# Author
+
+Hilary Azimoh
