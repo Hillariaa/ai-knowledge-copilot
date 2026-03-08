@@ -1,5 +1,11 @@
 # AI Knowledge Copilot API
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Chroma](https://img.shields.io/badge/VectorDB-Chroma-orange)
+![RAG](https://img.shields.io/badge/AI-RAG-purple)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
 A **Retrieval-Augmented Generation (RAG) AI assistant** that answers questions using your own documents.
 
 The system ingests PDFs and DOCX files, converts them into embeddings, stores them in a vector database, retrieves relevant context, and generates grounded answers using an LLM.
